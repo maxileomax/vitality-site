@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# keys file (contains secrets - never commit!)
+.env.keys
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

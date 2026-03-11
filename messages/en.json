@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "Natalia Muzyka — The Woman Who Feels",
+    "description": "Sexologist, psychologist, book author. Restore connection with yourself, your body and desire."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Natalia",
+    "program": "Program",
+    "quiz": "Quiz",
+    "results": "Results",
+    "faq": "FAQ",
+    "cta": "Start Journey"
+  },
+  "hero": {
+    "line1": "You are not broken.",
+    "line2": "Your body just stopped feeling.",
+    "subtitle": "And that can change.",
+    "description": "When stress disconnects your sensitivity — energy, desire and joy disappear. We know how to bring them back.",
+    "cta_primary": "Take the Free Quiz",
+    "cta_secondary": "Learn about the program →",
+    "stats": {
+      "subscribers": "followers",
+      "clients": "clients",
+      "book": "Book Author"
+    },
+    "scroll": "Scroll down"
+  },
+  "entry_points": {
+    "title": "Does this sound familiar?",
+    "subtitle": "Find your door",
+    "items": [
+      {
+        "icon": "battery-low",
+        "title": "Stress & Exhaustion",
+        "description": "I'm on autopilot. No energy for anything — not work, not family, not myself."
+      },
+      {
+        "icon": "heart",
+        "title": "Relationships & Intimacy",
+        "description": "We live like roommates. My partner is drifting away, intimacy is gone, and I don't know how to fix it."
+      },
+      {
+        "icon": "hand",
+        "title": "Body & Sensitivity",
+        "description": "I don't feel my body. Numbness, disconnection — like living in a spacesuit."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Confidence & Femininity",
+        "description": "I've stopped feeling like a woman. Where did that lightness and magnetism go?"
+      },
+      {
+        "icon": "activity",
+        "title": "Pelvic Floor Health",
+        "description": "Issues after childbirth, discomfort. Nobody talks about this, but it matters."
+      },
+      {
+        "icon": "flame",
+        "title": "Desire & Pleasure",
+        "description": "My desire is gone. I don't experience pleasure and I don't understand why."
+      }
+    ]
+  },
+  "solution": {
+    "title": "Why This Works",
+    "subtitle": "Science explained simply",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Nervous System",
+        "label": "Safety",
+        "description": "Your internal thermostat is overheated from stress. First, we calm it down."
+      },
+      {
+        "number": "02",
+        "title": "Body & Sensitivity",
+        "label": "Somatic",
+        "description": "The instrument is out of tune — it needs adjusting. We restore body connection."
+      },
+      {
+        "number": "03",
+        "title": "Energy & Desire",
+        "label": "Reward",
+        "description": "When the first two are in order — everything else turns on by itself."
+      }
+    ]
+  },
+  "expert": {
+    "title": "Natalia Muzyka",
+    "subtitle": "Sexologist · Psychologist · Author",
+    "bio": "I work with hundreds of women worldwide — from Ukraine, Kazakhstan, Europe, Israel, USA and UAE. And I see one pattern: women don't lose desire — they lose connection with themselves.",
+    "story": "When I started working with clients, I noticed: most think something is wrong with them. But it's not them. Nobody taught us to listen to our bodies and restore that connection.",
+    "credentials": [
+      "Sexologist, psychologist",
+      "Family constellations (Bert Hellinger method)",
+      "Metaphorical cards",
+      "Studying at US Sexology Clinic",
+      "1M+ followers @muzika_nataly"
+    ],
+    "cta": "More about Natalia →"
+  },
+  "testimonials": {
+    "title": "Results",
+    "subtitle": "Real stories from real women",
+    "cta": "All testimonials →",
+    "items": [
+      {
+        "quote": "I didn't believe it was possible — to feel alive again. After the first two weeks of the program, I noticed I was smiling for no reason.",
+        "name": "Anna K.",
+        "city": "Kyiv"
+      },
+      {
+        "quote": "My husband and I were like roommates for three years. Now I understand the problem wasn't him — I had stopped feeling myself.",
+        "name": "Marina S.",
+        "city": "Berlin"
+      },
+      {
+        "quote": "Natalia explains complex things so simply and with humor. No mysticism, just practices that work.",
+        "name": "Elena P.",
+        "city": "Toronto"
+      },
+      {
+        "quote": "I thought after 40 it was too late. How wrong I was. Six weeks in and I feel better than I did at 30.",
+        "name": "Svetlana M.",
+        "city": "Tel Aviv"
+      },
+      {
+        "quote": "The program changed not just my relationship with my body, but with my partner. We're truly close again.",
+        "name": "Olga D.",
+        "city": "Dubai"
+      },
+      {
+        "quote": "I've tried many courses. This is the first where I saw real results within the first month.",
+        "name": "Natalia V.",
+        "city": "Warsaw"
+      }
+    ]
+  },
+  "products": {
+    "title": "Choose Your Path",
+    "items": [
+      {
+        "name": "Free Quiz",
+        "price": "0",
+        "currency": "",
+        "description": "Discover your imbalance type in 2 minutes",
+        "features": ["Personal result", "Recommendations", "Instant"],
+        "cta": "Take the quiz",
+        "popular": false
+      },
+      {
+        "name": "Program",
+        "price": "497",
+        "currency": "$",
+        "description": "8-week transformational program",
+        "features": ["Video lessons", "Practices", "Curator support", "Community", "Result guarantee"],
+        "cta": "Join Now",
+        "popular": true
+      },
+      {
+        "name": "Mini-Course",
+        "price": "17",
+        "currency": "$",
+        "description": "First step — basic practices in 3 days",
+        "features": ["3 practices", "Video guides", "Lifetime access"],
+        "cta": "Start for $17",
+        "popular": false
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions & Answers",
+    "items": [
+      {
+        "question": "Will this work for me?",
+        "answer": "If you feel exhausted, disconnected from your body, or have low desire — yes, this is for you. We work with nervous system physiology, not symptoms."
+      },
+      {
+        "question": "Is it too late for me?",
+        "answer": "The nervous system restores at any age. Our clients are 25–65 years old — all see results. It's never too late."
+      },
+      {
+        "question": "Is this mystical or spiritual?",
+        "answer": "No. Everything is based on nervous system science, somatic psychology and sexology. Natalia studies at a US Sexology Clinic and uses only evidence-based methods."
+      },
+      {
+        "question": "How much time does it take?",
+        "answer": "15–20 minutes per day. The program is 8 weeks, but many notice changes within 2 weeks."
+      },
+      {
+        "question": "Does my partner need to participate?",
+        "answer": "No. The program is for you. When you change — the relationship changes. But whether your partner joins is their choice."
+      },
+      {
+        "question": "Is this confidential?",
+        "answer": "Absolutely. All data is protected. You can use a pseudonym in the community."
+      },
+      {
+        "question": "What's the guarantee?",
+        "answer": "If you completed all practices and saw no result in 8 weeks — we refund. No questions asked."
+      },
+      {
+        "question": "I've tried other courses",
+        "answer": "We understand. Most courses work with mindset but ignore the body. We start with the nervous system — that's a different level."
+      }
+    ]
+  },
+  "fomo": {
+    "urgency": "New group starting",
+    "spots_left": "{count} spots left out of 50",
+    "countdown_title": "Enrollment closes in",
+    "days": "days",
+    "hours": "hours",
+    "minutes": "min",
+    "seconds": "sec",
+    "social_proof": "Just joined: {name} from {city}"
+  },
+  "final_cta": {
+    "title": "You deserve to feel.",
+    "subtitle": "Start today.",
+    "cta_primary": "Take the Free Quiz",
+    "cta_webinar": "Join the Webinar",
+    "cta_minicourse": "Mini-Course for $17"
+  },
+  "footer": {
+    "tagline": "The Woman Who Feels",
+    "about_col": "About",
+    "nav_col": "Navigation",
+    "support_col": "Support",
+    "legal": "© 2026 Natalia Muzyka. For self-development and educational purposes.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact"
+  },
+  "mobile_bar": {
+    "cta": "Start Recovery"
+  },
+  "exit_popup": {
+    "title": "Wait!",
+    "subtitle": "Don't leave without knowing your imbalance type.",
+    "description": "The quiz takes 2 minutes. Personal results.",
+    "cta": "Take the quiz",
+    "counter": "{count} women have already taken the quiz",
+    "close": "Close"
+  }
+}
