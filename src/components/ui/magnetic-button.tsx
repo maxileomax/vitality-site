@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState, MouseEvent, ReactNode } from "react";
+import { useRef, useState, MouseEvent, ReactNode, CSSProperties } from "react";
 import { motion, useSpring } from "framer-motion";
 
 interface MagneticButtonProps {
@@ -8,6 +8,7 @@ interface MagneticButtonProps {
   className?: string;
   onClick?: () => void;
   strength?: number;
+  style?: CSSProperties;
 }
 
 export function MagneticButton({
@@ -15,6 +16,7 @@ export function MagneticButton({
   className,
   onClick,
   strength = 0.3,
+  style,
 }: MagneticButtonProps) {
   const ref = useRef<HTMLButtonElement>(null);
   const [isHovered, setIsHovered] = useState(false);
@@ -40,7 +42,7 @@ export function MagneticButton({
   return (
     <motion.button
       ref={ref}
-      style={{ x, y }}
+      style={{ x, y, ...style }}
       onMouseMove={handleMouseMove}
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={handleMouseLeave}
